@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 # Este archivo está cubierto por la Licencia Pública General de GNU.
 # Última actualización 2024
